@@ -1,3 +1,5 @@
+# acestream-search-python® https://forumtv.site/members/po6ot87.761/
+
 По существу: скрипт берет json файл с сервера acestream оттуда же откуда и в оригинальном скрипте и может преобразовывать его в плейлисты:
 1)Полный список каналов в виде http://адрес:порт/ace/getstream?infohash=хеш
 2)Список избранных каналов в виде http://адрес:порт/ace/getstream?infohash=хеш
